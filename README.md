@@ -60,6 +60,7 @@ streamlit run app.py
 
 It will open the app in your browser automatically.
 
+You can access the live from the [link](https://appuct-review-sentiment-analysis-frbbofaknnpoxj53czr6nq.streamlit.app/) here
 ---
 
 ## ✨ Example Use
