@@ -45,3 +45,10 @@ Open your terminal or command prompt and run:
 
 ```bash
 pip install streamlit joblib nltk
+
+### ✅ **3. Run the App**
+Make sure all three files (app.py, best_sentiment_model.pkl, and tfidf_vectorizer.pkl) are in the same folder.
+
+In that folder, run this command:
+
+
